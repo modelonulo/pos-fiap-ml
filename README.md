@@ -50,6 +50,7 @@ Repositório contendo todos os scripts e documentos referentes à minha pós-gra
 - Padrao join é em indice em indice
 - Usa join para unir tabelas pelo index, já que a ordem das informacoes de 2 tabelas sao diferentes, mas teve que corrigir o codigo. 
 - PESQUISAR JOIN
+- ensinou o .melt() - o que eu estava tentando fazer em robyn era o inverso de .melt()
 - [Título do Artigo/Documento 2](url_do_artigo_2)
 - ...
 
