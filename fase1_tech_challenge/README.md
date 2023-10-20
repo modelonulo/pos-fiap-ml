@@ -35,22 +35,8 @@ StackEdit stores your files in your browser, which means all your files are auto
 # Metodologia
 
 1. Arquivo de exportação:
-	- arquicos dps anos de 2008 até 2022 baixados individualmente
-		- [x] 2008
-		- [x] 2009
-		- [x] 2010
-		- [x] 2011
-		- [x] 2012
-		- [x] 2013
-		- [x] 2014
-		- [x] 2015
-		- [x] 2016
-		- [x] 2017
-		- [x] 2018
-		- [x] 2019
-		- [x] 2020
-		- [x] 2021
-		- [x] 2022
+	- Mantive os anos de 2008 até 2022;
+	- Somei as colunas dos anos (ex: 2008 + 2008.1);
 	- 
 
 
