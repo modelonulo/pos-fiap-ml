@@ -15,7 +15,7 @@
 
 3. Dizer montante de exportação nos últimos 15 anos e:
 	- Separando por **país**
-	- Trazendo quais as prospecções futuras e possívveis ações para uma melhoria nas exportações
+	- Trazendo quais as prospecções futuras e possíveis ações para uma melhoria nas exportações
 	- Plotar gráficos atraentes 
 
 # Dicas:
